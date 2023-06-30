@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "file-saver": "^2.0.5",
+    "node-fetch": "^3.3.1",
+    "nodemailer": "^6.9.3",
+    "universal-cookie": "^4.0.4"
+  }
+}

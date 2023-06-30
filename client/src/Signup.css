@@ -1,0 +1,81 @@
+/* Apply styles to the form container */
+.form-container {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 67vh;
+     background: linear-gradient(180deg, rgba(51, 154, 214, 0.85) 0%, #ceeaf3 100%) !important;
+     ;
+}
+
+/* Apply styles to the signup form */
+.signup-form {
+     width: 400px;
+     padding: 35px;
+}
+
+/* Apply styles to the form heading */
+.signup-form h2 {
+     text-align: center;
+     margin-bottom: 20px;
+}
+
+/* Apply styles to form labels */
+.signup-form label {
+     display: block;
+     margin-bottom: 8px;
+}
+
+/* Apply styles to form inputs */
+.signup-form input[type="text"],
+.signup-form input[type="email"],
+.signup-form input[type="password"] {
+     width: 100%;
+     background: transparent;
+     padding: 8px;
+     margin-bottom: 16px;
+     border-radius: 5px;
+     border: 1px solid rgb(15, 14, 14);
+}
+
+/* Apply styles to form button */
+.signup-form button[type="submit"] {
+     margin: 10px;
+     width: 25%;
+     padding: 8px;
+     background-color: cornflowerblue;
+     border: none;
+     border-radius: 5px;
+     color: white;
+     font-weight: bold;
+     cursor: pointer;
+}
+
+/* Apply styles to the link */
+.signup-form a {
+     text-decoration: none;
+     color: blue;
+}
+
+/* Apply styles to the paragraph */
+.signup-form .para {
+     margin-top: 8px;
+}
+
+/* Apply styles to the button and paragraph group */
+.signup-form .btn-group {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.btn-group5 {
+     align-items: center;
+     display: flex;
+     align-content: flex-start;
+     flex-direction: column;
+}
+
+.forget{
+     width: 50% !important;
+}

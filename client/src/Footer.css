@@ -1,0 +1,34 @@
+.container {
+     position: relative;
+     min-height: 10vh;
+}
+
+.content1 {
+     padding-bottom: 28px;
+}
+
+.footer {
+     width: 100%;
+     height: 70px;
+     background-color: rgba(80,59,150,0.87);
+     color: white;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     font-size: 14px;
+     font-weight: 600;
+     border-radius: 50px;
+}
+
+.copyright{
+     margin: 42rem;
+}
+
+@media screen and (max-width: 768px) {
+     .footer {
+          flex-direction: column;
+          height: auto;
+          padding: 20px;
+          text-align: center;
+     }
+}

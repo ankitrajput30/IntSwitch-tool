@@ -1,0 +1,76 @@
+.fileInput {
+     display: none;
+}
+
+.part121 {
+     padding: 9px !important;
+     margin-top: 30px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-bottom: 20px;
+}
+
+.validateButton{
+     margin-top: 4rem;
+     margin-bottom: 2rem;
+     color: black;
+     padding: 3px !important;
+     font-weight: bolder;
+     border: 2px solid black !important;
+     border-radius: 5px;
+     margin-left: 1rem;
+     background: transparent;
+}
+
+.box_class3{
+     padding: 11px;
+}
+
+.box_class{
+     display: flex;
+     justify-content: center;
+}
+
+.label1{
+     display: flex;
+     justify-content: space-between;
+     color: black;
+}
+
+.part1 {
+     color: black;
+     padding: 5px;
+     font-weight: bolder;
+     border: 2px solid black !important;
+     border-radius: 5px;
+     margin-left: 1rem;
+}
+
+.headingS{
+     color: black;
+     display: flex;
+     justify-content: center;
+}
+
+.headingM{
+     color: black;
+     display: flex;
+     justify-content: center;
+}
+
+.label1{
+     display: flex;
+     justify-content: space-between;
+     color: black;
+     margin-top: 1rem;
+}
+
+.textInput{
+     border: 2px solid black !important;
+     border-radius: 5px;
+     color: black;
+     background: transparent;
+     margin-left: 1rem;
+}
+
